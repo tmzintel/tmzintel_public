@@ -1,1 +1,1 @@
-# tmzintel_Sage
+# Trish Zintel's Public repo 
